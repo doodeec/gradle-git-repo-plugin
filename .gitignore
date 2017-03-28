@@ -1,0 +1,13 @@
+bin
+build
+.gradle
+.idea
+out
+*.iml
+src/main/java/layer/transport/thrift
+classes
+*.swp
+.settings
+.project
+.classpath
+gradle.properties
